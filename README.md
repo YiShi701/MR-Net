@@ -1,5 +1,6 @@
 # ETFOD-v2 Dataset
-A part of ETFOD-v2 is now available by Baidu Netdisk with link:
+A part of ETFOD-v2 is now available by Baidu Netdisk with link:链接：https://pan.baidu.com/s/1XQjq9vtFB0Xp4F96BTElTg 
+提取码：xo2v 
 
 The remaining testset labels will be published. 
 
